@@ -1,0 +1,59 @@
+c:\users\user\documents\visual studio 2013\Projects\OceanSimulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\аква.xnb
+c:\users\user\documents\visual studio 2013\Projects\OceanSimulation\OceanSimulation\OceanSimulation\bin\x86\Debug\OceanSimulation.exe
+c:\users\user\documents\visual studio 2013\Projects\OceanSimulation\OceanSimulation\OceanSimulation\bin\x86\Debug\OceanSimulation.pdb
+c:\users\user\documents\visual studio 2013\Projects\OceanSimulation\OceanSimulation\OceanSimulation\obj\x86\Debug\OceanSimulation.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\OceanSimulation\OceanSimulation\OceanSimulation\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\user\documents\visual studio 2013\Projects\OceanSimulation\OceanSimulation\OceanSimulation\obj\x86\Debug\OceanSimulation.exe
+c:\users\user\documents\visual studio 2013\Projects\OceanSimulation\OceanSimulation\OceanSimulation\obj\x86\Debug\OceanSimulation.pdb
+c:\users\user\documents\visual studio 2013\Projects\OceanSimulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\sfish.xnb
+C:\Users\user\Documents\Visual Studio 2013\Projects\OceanSimulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\pr.xnb
+C:\Users\user\Documents\Visual Studio 2013\Projects\OceanSimulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\kloyn.xnb
+C:\Users\user\Documents\Visual Studio 2013\Projects\OceanSimulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\som.xnb
+C:\Users\user\Documents\Visual Studio 2013\Projects\OceanSimulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\food.xnb
+C:\Users\user\Desktop\OceanSimulation1\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\аква.xnb
+C:\Users\user\Desktop\OceanSimulation1\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\sfish.xnb
+C:\Users\user\Desktop\OceanSimulation1\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\pr.xnb
+C:\Users\user\Desktop\OceanSimulation1\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\kloyn.xnb
+C:\Users\user\Desktop\OceanSimulation1\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\som.xnb
+C:\Users\user\Desktop\OceanSimulation1\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\food.xnb
+C:\Users\user\Desktop\OceanSimulation1\OceanSimulation\OceanSimulation\bin\x86\Debug\OceanSimulation.exe
+C:\Users\user\Desktop\OceanSimulation1\OceanSimulation\OceanSimulation\bin\x86\Debug\OceanSimulation.pdb
+C:\Users\user\Desktop\OceanSimulation1\OceanSimulation\OceanSimulation\obj\x86\Debug\OceanSimulation.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\OceanSimulation1\OceanSimulation\OceanSimulation\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\user\Desktop\OceanSimulation1\OceanSimulation\OceanSimulation\obj\x86\Debug\OceanSimulation.exe
+C:\Users\user\Desktop\OceanSimulation1\OceanSimulation\OceanSimulation\obj\x86\Debug\OceanSimulation.pdb
+C:\Users\user\Desktop\OceanSimulation1 - копия\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\аква.xnb
+C:\Users\user\Desktop\OceanSimulation1 - копия\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\sfish.xnb
+C:\Users\user\Desktop\OceanSimulation1 - копия\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\pr.xnb
+C:\Users\user\Desktop\OceanSimulation1 - копия\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\kloyn.xnb
+C:\Users\user\Desktop\OceanSimulation1 - копия\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\som.xnb
+C:\Users\user\Desktop\OceanSimulation1 - копия\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\food.xnb
+C:\Users\user\Desktop\OceanSimulation1 - копия\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\menu.xnb
+C:\Users\user\Desktop\OceanSimulation1 - копия\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\game.xnb
+C:\Users\user\Desktop\OceanSimulation1 - копия\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\exit.xnb
+C:\Users\user\Desktop\OceanSimulation1 - копия\OceanSimulation\OceanSimulation\bin\x86\Debug\OceanSimulation.exe
+C:\Users\user\Desktop\OceanSimulation1 - копия\OceanSimulation\OceanSimulation\bin\x86\Debug\OceanSimulation.pdb
+C:\Users\user\Desktop\OceanSimulation1 - копия\OceanSimulation\OceanSimulation\obj\x86\Debug\OceanSimulation.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\OceanSimulation1 - копия\OceanSimulation\OceanSimulation\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\user\Desktop\OceanSimulation1 - копия\OceanSimulation\OceanSimulation\obj\x86\Debug\OceanSimulation.exe
+C:\Users\user\Desktop\OceanSimulation1 - копия\OceanSimulation\OceanSimulation\obj\x86\Debug\OceanSimulation.pdb
+C:\Users\user\Desktop\OceanSimulation1 - копия\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Cursorr.xnb
+C:\Users\user\Desktop\OceanSimulation1 - копия\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\save.xnb
+C:\Users\user\Desktop\OceanSimulation1 - копия\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\load.xnb
+C:\Users\user\Desktop\OceanSimulation1 - копия - копия\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\аква.xnb
+C:\Users\user\Desktop\OceanSimulation1 - копия - копия\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\sfish.xnb
+C:\Users\user\Desktop\OceanSimulation1 - копия - копия\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\pr.xnb
+C:\Users\user\Desktop\OceanSimulation1 - копия - копия\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\kloyn.xnb
+C:\Users\user\Desktop\OceanSimulation1 - копия - копия\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\som.xnb
+C:\Users\user\Desktop\OceanSimulation1 - копия - копия\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\menu.xnb
+C:\Users\user\Desktop\OceanSimulation1 - копия - копия\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\exit.xnb
+C:\Users\user\Desktop\OceanSimulation1 - копия - копия\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Cursorr.xnb
+C:\Users\user\Desktop\OceanSimulation1 - копия - копия\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\save.xnb
+C:\Users\user\Desktop\OceanSimulation1 - копия - копия\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\load.xnb
+C:\Users\user\Desktop\OceanSimulation1 - копия - копия\OceanSimulation\OceanSimulation\bin\x86\Debug\OceanSimulation.exe
+C:\Users\user\Desktop\OceanSimulation1 - копия - копия\OceanSimulation\OceanSimulation\bin\x86\Debug\OceanSimulation.pdb
+C:\Users\user\Desktop\OceanSimulation1 - копия - копия\OceanSimulation\OceanSimulation\obj\x86\Debug\OceanSimulation.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\OceanSimulation1 - копия - копия\OceanSimulation\OceanSimulation\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\user\Desktop\OceanSimulation1 - копия - копия\OceanSimulation\OceanSimulation\obj\x86\Debug\OceanSimulation.exe
+C:\Users\user\Desktop\OceanSimulation1 - копия - копия\OceanSimulation\OceanSimulation\obj\x86\Debug\OceanSimulation.pdb
+C:\Users\user\Desktop\OceanSimulation1 - копия - копия\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\play.xnb
