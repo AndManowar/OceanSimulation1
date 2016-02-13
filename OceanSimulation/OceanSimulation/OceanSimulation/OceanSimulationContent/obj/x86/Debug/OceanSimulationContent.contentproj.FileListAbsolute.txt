@@ -1,9 +1,0 @@
-c:\users\user\documents\visual studio 2013\Projects\OceanSimulation\OceanSimulation\OceanSimulationContent\obj\x86\Debug\OceanSimulationContent.contentprojResolveAssemblyReference.cache
-C:\Users\user\Desktop\OceanSimulation1\OceanSimulation\OceanSimulationContent\obj\x86\Debug\OceanSimulationContent.contentprojResolveAssemblyReference.cache
-C:\Users\user\Desktop\OceanSimulation1 - копия\OceanSimulation\OceanSimulationContent\obj\x86\Debug\OceanSimulationContent.contentprojResolveAssemblyReference.cache
-C:\Users\user\Desktop\OceanSimulation1 - копия - копия\OceanSimulation\OceanSimulationContent\obj\x86\Debug\OceanSimulationContent.contentprojResolveAssemblyReference.cache
-C:\Users\user\Desktop\MyOceanSimulation\OceanSimulation\OceanSimulationContent\obj\x86\Debug\OceanSimulationContent.contentprojResolveAssemblyReference.cache
-E:\test\MyOceanSimulation\MyOceanSimulation\OceanSimulation\OceanSimulationContent\obj\x86\Debug\OceanSimulationContent.contentprojResolveAssemblyReference.cache
-C:\Users\user\Desktop\111\OceanSimulation\OceanSimulationContent\obj\x86\Debug\OceanSimulationContent.contentprojResolveAssemblyReference.cache
-C:\Users\user\Desktop\111 - копия\OceanSimulation\OceanSimulationContent\obj\x86\Debug\OceanSimulationContent.contentprojResolveAssemblyReference.cache
-C:\Users\user\Desktop\OceanSimulation1-master\OceanSimulation\OceanSimulation\OceanSimulationContent\obj\x86\Debug\OceanSimulationContent.contentprojResolveAssemblyReference.cache
