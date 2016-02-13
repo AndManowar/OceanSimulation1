@@ -36,7 +36,7 @@ namespace OceanSimulation
         }
         public BaseObject(SerializationInfo sInfo, StreamingContext Context)
         {
-            CurrentVersion = Convert.ToInt32(sInfo.GetInt32("CurrentVersion"));
+            CurrentVersion = sInfo.GetInt32("CurrentVersion");
             BaseRectangle = (Rectangle)sInfo.GetValue("Rectangle", typeof(Rectangle));
             Position = (Vector2)sInfo.GetValue("Position", typeof(Vector2));
             Speed = (Vector2)sInfo.GetValue("Speed", typeof(Vector2));
