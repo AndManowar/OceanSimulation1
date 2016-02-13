@@ -2,48 +2,12 @@
 <XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
   <Asset Type="Pipeline:BuildItemCollection">
     <Item>
-      <Source>save.png</Source>
-      <Name>save</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\user\Desktop\OceanSimulation2 - копия\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\save.xnb</Output>
-      <Time>2016-02-03T03:47:02+02:00</Time>
-    </Item>
-    <Item>
-      <Source>Load.png</Source>
-      <Name>Load</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\user\Desktop\OceanSimulation2 - копия\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Load.xnb</Output>
-      <Time>2016-02-03T03:47:02+02:00</Time>
-    </Item>
-    <Item>
-      <Source>play.png</Source>
-      <Name>play</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\user\Desktop\OceanSimulation2 - копия\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\play.xnb</Output>
-      <Time>2016-02-03T03:47:02+02:00</Time>
-    </Item>
-    <Item>
-      <Source>exit.png</Source>
-      <Name>exit</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\user\Desktop\OceanSimulation2 - копия\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\exit.xnb</Output>
-      <Time>2016-02-03T03:47:02+02:00</Time>
-    </Item>
-    <Item>
       <Source>Ocean.JPG</Source>
       <Name>Ocean</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\user\Desktop\OceanSimulation2 - копия\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Ocean.xnb</Output>
+      <Output>C:\Users\user\Desktop\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Ocean.xnb</Output>
       <Time>2016-02-03T03:47:02+02:00</Time>
     </Item>
     <Item>
@@ -52,7 +16,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\user\Desktop\OceanSimulation2 - копия\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Simple.xnb</Output>
+      <Output>C:\Users\user\Desktop\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Simple.xnb</Output>
       <Time>2016-02-03T03:47:02+02:00</Time>
     </Item>
     <Item>
@@ -61,7 +25,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\user\Desktop\OceanSimulation2 - копия\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Predatory.xnb</Output>
+      <Output>C:\Users\user\Desktop\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Predatory.xnb</Output>
       <Time>2016-02-03T03:47:02+02:00</Time>
     </Item>
     <Item>
@@ -70,7 +34,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\user\Desktop\OceanSimulation2 - копия\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Deep.xnb</Output>
+      <Output>C:\Users\user\Desktop\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Deep.xnb</Output>
       <Time>2016-02-03T03:47:02+02:00</Time>
     </Item>
     <Item>
@@ -79,7 +43,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\user\Desktop\OceanSimulation2 - копия\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Menu_Picture.xnb</Output>
+      <Output>C:\Users\user\Desktop\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Menu_Picture.xnb</Output>
       <Time>2016-02-03T03:47:02+02:00</Time>
     </Item>
     <Item>
@@ -88,7 +52,43 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\user\Desktop\OceanSimulation2 - копия\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Cursor.xnb</Output>
+      <Output>C:\Users\user\Desktop\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Cursor.xnb</Output>
+      <Time>2016-02-03T03:47:02+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Save.png</Source>
+      <Name>Save</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Save.xnb</Output>
+      <Time>2016-02-03T03:47:02+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Load.png</Source>
+      <Name>Load</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Load.xnb</Output>
+      <Time>2016-02-03T03:47:02+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Play.png</Source>
+      <Name>Play</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Play.xnb</Output>
+      <Time>2016-02-03T03:47:02+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Exit.png</Source>
+      <Name>Exit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Exit.xnb</Output>
       <Time>2016-02-03T03:47:02+02:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
@@ -98,10 +98,10 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\user\Desktop\OceanSimulation2 - копия\OceanSimulation\OceanSimulationContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\user\Desktop\OceanSimulation2 - копия\OceanSimulation\OceanSimulation\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\user\Desktop\OceanSimulation2 - копия\OceanSimulation\OceanSimulation\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\user\Desktop\OceanSimulation2 - копия\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\user\Desktop\Ocean_Simulation\OceanSimulation\OceanSimulationContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\user\Desktop\Ocean_Simulation\OceanSimulation\OceanSimulation\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\user\Desktop\Ocean_Simulation\OceanSimulation\OceanSimulation\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\user\Desktop\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

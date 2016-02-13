@@ -175,3 +175,19 @@ C:\Users\user\Desktop\OceanSimulation2 - копия\OceanSimulation\OceanSimulat
 C:\Users\user\Desktop\OceanSimulation2 - копия\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Deep.xnb
 C:\Users\user\Desktop\OceanSimulation2 - копия\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Menu_Picture.xnb
 C:\Users\user\Desktop\OceanSimulation2 - копия\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Cursor.xnb
+C:\Users\user\Desktop\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Ocean.xnb
+C:\Users\user\Desktop\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Simple.xnb
+C:\Users\user\Desktop\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Predatory.xnb
+C:\Users\user\Desktop\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Deep.xnb
+C:\Users\user\Desktop\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Menu_Picture.xnb
+C:\Users\user\Desktop\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Cursor.xnb
+C:\Users\user\Desktop\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Save.xnb
+C:\Users\user\Desktop\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Load.xnb
+C:\Users\user\Desktop\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Play.xnb
+C:\Users\user\Desktop\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Exit.xnb
+C:\Users\user\Desktop\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\OceanSimulation.exe
+C:\Users\user\Desktop\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\OceanSimulation.pdb
+C:\Users\user\Desktop\Ocean_Simulation\OceanSimulation\OceanSimulation\obj\x86\Debug\OceanSimulation.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Ocean_Simulation\OceanSimulation\OceanSimulation\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\user\Desktop\Ocean_Simulation\OceanSimulation\OceanSimulation\obj\x86\Debug\OceanSimulation.exe
+C:\Users\user\Desktop\Ocean_Simulation\OceanSimulation\OceanSimulation\obj\x86\Debug\OceanSimulation.pdb

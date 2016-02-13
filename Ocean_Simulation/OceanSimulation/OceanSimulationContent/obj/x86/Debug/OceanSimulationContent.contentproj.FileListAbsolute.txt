@@ -9,3 +9,4 @@ C:\Users\user\Desktop\111 - копия\OceanSimulation\OceanSimulationContent\ob
 C:\Users\user\Desktop\OceanSimulation1-master\OceanSimulation\OceanSimulation\OceanSimulationContent\obj\x86\Debug\OceanSimulationContent.contentprojResolveAssemblyReference.cache
 C:\Users\user\Desktop\OceanSimulation2\OceanSimulation\OceanSimulationContent\obj\x86\Debug\OceanSimulationContent.contentprojResolveAssemblyReference.cache
 C:\Users\user\Desktop\OceanSimulation2 - копия\OceanSimulation\OceanSimulationContent\obj\x86\Debug\OceanSimulationContent.contentprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Ocean_Simulation\OceanSimulation\OceanSimulationContent\obj\x86\Debug\OceanSimulationContent.contentprojResolveAssemblyReference.cache
