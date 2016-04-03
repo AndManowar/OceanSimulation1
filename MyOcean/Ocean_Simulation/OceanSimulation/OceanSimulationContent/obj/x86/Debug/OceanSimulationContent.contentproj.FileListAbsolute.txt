@@ -11,3 +11,4 @@ C:\Users\user\Desktop\OceanSimulation2\OceanSimulation\OceanSimulationContent\ob
 C:\Users\user\Desktop\OceanSimulation2 - копия\OceanSimulation\OceanSimulationContent\obj\x86\Debug\OceanSimulationContent.contentprojResolveAssemblyReference.cache
 C:\Users\user\Desktop\Ocean_Simulation\OceanSimulation\OceanSimulationContent\obj\x86\Debug\OceanSimulationContent.contentprojResolveAssemblyReference.cache
 C:\Users\user\Desktop\doing now\Ocean_Simulation\OceanSimulation\OceanSimulationContent\obj\x86\Debug\OceanSimulationContent.contentprojResolveAssemblyReference.cache
+D:\с рабочего стола\MyOcean\Ocean_Simulation\OceanSimulation\OceanSimulationContent\obj\x86\Debug\OceanSimulationContent.contentprojResolveAssemblyReference.cache

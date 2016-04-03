@@ -11,7 +11,6 @@ namespace OceanSimulation
     {
        public ContentManager Content;
        private static ResourceManager Resource_Manager;
-       Texture2D Some_Texture;
        private ResourceManager(ContentManager Content)
         {
             this.Content = Content;
@@ -28,10 +27,9 @@ namespace OceanSimulation
             }
             return Resource_Manager;
         } 
-       public Texture2D Get_Texture(string Name)
+       public Texture2D Get_Texture(string Texture_Name)
        {
-           Some_Texture = Content.Load<Texture2D>(Name);
-           return Some_Texture;
+           return Content.Load<Texture2D>(Texture_Name);        
        }
    }
 }

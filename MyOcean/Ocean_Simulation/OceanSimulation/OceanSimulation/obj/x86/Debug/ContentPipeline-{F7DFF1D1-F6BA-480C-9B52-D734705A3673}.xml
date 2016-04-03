@@ -7,7 +7,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\user\Desktop\doing now\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Ocean.xnb</Output>
+      <Output>D:\с рабочего стола\MyOcean\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Ocean.xnb</Output>
       <Time>2016-02-13T03:33:46+02:00</Time>
     </Item>
     <Item>
@@ -16,7 +16,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\user\Desktop\doing now\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Simple.xnb</Output>
+      <Output>D:\с рабочего стола\MyOcean\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Simple.xnb</Output>
       <Time>2016-02-13T03:33:46+02:00</Time>
     </Item>
     <Item>
@@ -25,7 +25,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\user\Desktop\doing now\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Predatory.xnb</Output>
+      <Output>D:\с рабочего стола\MyOcean\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Predatory.xnb</Output>
       <Time>2016-02-13T03:33:46+02:00</Time>
     </Item>
     <Item>
@@ -34,7 +34,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\user\Desktop\doing now\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Deep.xnb</Output>
+      <Output>D:\с рабочего стола\MyOcean\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Deep.xnb</Output>
       <Time>2016-02-13T03:33:46+02:00</Time>
     </Item>
     <Item>
@@ -43,7 +43,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\user\Desktop\doing now\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Menu_Picture.xnb</Output>
+      <Output>D:\с рабочего стола\MyOcean\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Menu_Picture.xnb</Output>
       <Time>2016-02-13T03:33:46+02:00</Time>
     </Item>
     <Item>
@@ -52,7 +52,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\user\Desktop\doing now\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Cursor.xnb</Output>
+      <Output>D:\с рабочего стола\MyOcean\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Cursor.xnb</Output>
       <Time>2016-02-13T03:33:46+02:00</Time>
     </Item>
     <Item>
@@ -61,7 +61,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\user\Desktop\doing now\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Save.xnb</Output>
+      <Output>D:\с рабочего стола\MyOcean\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Save.xnb</Output>
       <Time>2016-02-13T03:33:46+02:00</Time>
     </Item>
     <Item>
@@ -70,7 +70,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\user\Desktop\doing now\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Load.xnb</Output>
+      <Output>D:\с рабочего стола\MyOcean\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Load.xnb</Output>
       <Time>2016-02-13T03:33:46+02:00</Time>
     </Item>
     <Item>
@@ -79,7 +79,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\user\Desktop\doing now\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Play.xnb</Output>
+      <Output>D:\с рабочего стола\MyOcean\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Play.xnb</Output>
       <Time>2016-02-13T03:33:46+02:00</Time>
     </Item>
     <Item>
@@ -88,7 +88,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\user\Desktop\doing now\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Exit.xnb</Output>
+      <Output>D:\с рабочего стола\MyOcean\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Exit.xnb</Output>
       <Time>2016-02-13T03:33:46+02:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
@@ -98,10 +98,10 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\user\Desktop\doing now\Ocean_Simulation\OceanSimulation\OceanSimulationContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\user\Desktop\doing now\Ocean_Simulation\OceanSimulation\OceanSimulation\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\user\Desktop\doing now\Ocean_Simulation\OceanSimulation\OceanSimulation\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\user\Desktop\doing now\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>D:\с рабочего стола\MyOcean\Ocean_Simulation\OceanSimulation\OceanSimulationContent\</RootDirectory>
+      <LoggerRootDirectory>D:\с рабочего стола\MyOcean\Ocean_Simulation\OceanSimulation\OceanSimulation\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\с рабочего стола\MyOcean\Ocean_Simulation\OceanSimulation\OceanSimulation\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\с рабочего стола\MyOcean\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

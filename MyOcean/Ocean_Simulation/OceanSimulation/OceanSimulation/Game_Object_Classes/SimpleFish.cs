@@ -9,8 +9,9 @@ using System.Text;
 
 namespace OceanSimulation
 {
-   public class SimpleFish : BaseObject
+    public class SimpleFish : BaseObject
     {
+
         public SimpleFish() { }
         public SimpleFish(Texture2D Base_Object, Vector2 Position, Vector2 Speed, int LifeTime, int ReproTime)
         {
@@ -26,6 +27,13 @@ namespace OceanSimulation
             MaxDepth = 200;
             Can_Be_Eaten = true;
             Simple_Type = true;
-        }    
+        }
+        public override void Update()
+        {
+            Avoid_Collision(Game1.operations.Objects, 1);
+            base.Update();
+        }
     }
 }
+    
+

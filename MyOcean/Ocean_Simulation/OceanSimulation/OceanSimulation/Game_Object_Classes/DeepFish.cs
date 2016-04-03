@@ -25,6 +25,12 @@ namespace OceanSimulation
             MaxDepth = 700;
             Deep_Type = true;
             Some_Property = 29;
-        }       
+        }
+        public override void Update()
+        {
+            Avoid_Collision(Game1.operations.Objects,3);
+            base.Update();
+        }
+        
     }
 }

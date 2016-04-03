@@ -40,7 +40,7 @@ namespace OceanSimulation
             graphics.PreferredBackBufferWidth = 1280;
             graphics.PreferredBackBufferHeight = 680;
             Simple_Count = r.Next(3, 6);
-            Predatory_Count = r.Next(1, 3);
+            Predatory_Count = r.Next(2, 3);
             Deep_Count = r.Next(1, 2);
             Game = true;
         }

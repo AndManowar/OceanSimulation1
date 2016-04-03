@@ -207,3 +207,19 @@ C:\Users\user\Desktop\doing now\Ocean_Simulation\OceanSimulation\OceanSimulation
 C:\Users\user\Desktop\doing now\Ocean_Simulation\OceanSimulation\OceanSimulation\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\user\Desktop\doing now\Ocean_Simulation\OceanSimulation\OceanSimulation\obj\x86\Debug\OceanSimulation.exe
 C:\Users\user\Desktop\doing now\Ocean_Simulation\OceanSimulation\OceanSimulation\obj\x86\Debug\OceanSimulation.pdb
+D:\с рабочего стола\MyOcean\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Ocean.xnb
+D:\с рабочего стола\MyOcean\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Simple.xnb
+D:\с рабочего стола\MyOcean\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Predatory.xnb
+D:\с рабочего стола\MyOcean\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Deep.xnb
+D:\с рабочего стола\MyOcean\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Menu_Picture.xnb
+D:\с рабочего стола\MyOcean\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Cursor.xnb
+D:\с рабочего стола\MyOcean\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Save.xnb
+D:\с рабочего стола\MyOcean\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Load.xnb
+D:\с рабочего стола\MyOcean\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Play.xnb
+D:\с рабочего стола\MyOcean\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\Content\Exit.xnb
+D:\с рабочего стола\MyOcean\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\OceanSimulation.exe
+D:\с рабочего стола\MyOcean\Ocean_Simulation\OceanSimulation\OceanSimulation\bin\x86\Debug\OceanSimulation.pdb
+D:\с рабочего стола\MyOcean\Ocean_Simulation\OceanSimulation\OceanSimulation\obj\x86\Debug\OceanSimulation.csprojResolveAssemblyReference.cache
+D:\с рабочего стола\MyOcean\Ocean_Simulation\OceanSimulation\OceanSimulation\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\с рабочего стола\MyOcean\Ocean_Simulation\OceanSimulation\OceanSimulation\obj\x86\Debug\OceanSimulation.exe
+D:\с рабочего стола\MyOcean\Ocean_Simulation\OceanSimulation\OceanSimulation\obj\x86\Debug\OceanSimulation.pdb
