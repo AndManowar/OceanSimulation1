@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OceanSimulation.ResourceManager">
+    <Position X="8" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAgAAAAAAAAAAAAAABQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Resourse_Manager\ResourceManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OceanSimulation.Program">
+    <Position X="8" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program,Game1\Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OceanSimulation.Game1">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEGAAAAAgAwAAAwAAEAAAAAgAAAgQACBBAAAAAAQ=</HashCode>
+      <FileName>Program,Game1\Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OceanSimulation.Operations">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAEAAAABAAAAAAA=</HashCode>
+      <FileName>Menu_And_Operations\Operations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OceanSimulation.Menu">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAQgAAIAEAAhBAAAAAAQAAAAEAAQCAIEAAAABBQAQ=</HashCode>
+      <FileName>Menu_And_Operations\Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OceanSimulation.SimpleFish">
+    <Position X="4.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game_Object_Classes\SimpleFish.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OceanSimulation.BaseObject">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgABgAAAMAkAgBAAABCABABAoAAkIAQABgFAAAAA=</HashCode>
+      <FileName>Game_Object_Classes\BaseObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OceanSimulation.DeepFish">
+    <Position X="4.5" Y="4.5" Width="1.5" />
+    <InheritanceLine Type="OceanSimulation.BaseObject" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="4.25" Y="4.375" />
+        <Point X="4.373" Y="4.375" />
+        <Point X="4.373" Y="5.213" />
+        <Point X="4.5" Y="5.213" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game_Object_Classes\DeepFish.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OceanSimulation.PredatoryFish">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <InheritanceLine Type="OceanSimulation.BaseObject" FixedToPoint="true">
+      <Path>
+        <Point X="3.5" Y="0.5" />
+        <Point X="3.5" Y="0.26" />
+        <Point X="5.25" Y="0.26" />
+        <Point X="5.25" Y="0.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAEAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game_Object_Classes\PredatoryFish.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

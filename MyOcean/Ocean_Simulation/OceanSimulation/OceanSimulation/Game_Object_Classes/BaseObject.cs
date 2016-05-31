@@ -160,7 +160,7 @@ namespace OceanSimulation
                 Position.X = Convert.ToInt16(stream.ReadLine());
                 Position.Y = Convert.ToInt16(stream.ReadLine());
                 Speed.X = Convert.ToInt16(stream.ReadLine());
-                Speed.Y = Convert.ToInt32(stream.ReadLine());
+                Speed.Y = Convert.ToInt16(stream.ReadLine());
                 MinDepth = Convert.ToInt16(stream.ReadLine());
                 MaxDepth = Convert.ToInt16(stream.ReadLine());
                 ReproTime = Convert.ToInt16(stream.ReadLine());

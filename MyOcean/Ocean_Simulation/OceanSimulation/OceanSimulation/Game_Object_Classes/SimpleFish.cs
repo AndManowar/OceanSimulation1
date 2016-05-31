@@ -30,7 +30,7 @@ namespace OceanSimulation
         }
         public override void Update()
         {
-            Avoid_Collision(Game1.operations.Objects, 1);
+            //Avoid_Collision(Game1.operations.Objects, 1);
             base.Update();
         }
     }

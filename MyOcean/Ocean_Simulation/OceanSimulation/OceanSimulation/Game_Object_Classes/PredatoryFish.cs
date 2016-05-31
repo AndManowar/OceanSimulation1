@@ -36,7 +36,6 @@ namespace OceanSimulation
             {
                 Collision_Side = this.BaseRectangle.Left;
             }
-
             for (int i = 0; i < Objects.Count; i++)
             {
                 if (this.BaseRectangle.Intersects(Objects[i].BaseRectangle) && Objects[i].Can_Be_Eaten == true)
@@ -54,8 +53,8 @@ namespace OceanSimulation
      
         public override void Update()
         {
-            Avoid_Collision(Game1.operations.Objects, 2);
-          //  Intersect(Game1.operations.Objects);
+           // Avoid_Collision(Game1.operations.Objects, 2);
+           Intersect(Game1.operations.Objects);
             base.Update();
         }
     }

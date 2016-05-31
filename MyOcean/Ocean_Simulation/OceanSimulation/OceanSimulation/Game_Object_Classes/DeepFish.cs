@@ -22,13 +22,13 @@ namespace OceanSimulation
             this.LifeTime = LifeTime;
             this.ReproTime = ReproTime;
             MinDepth = 600;
-            MaxDepth = 700;
+            MaxDepth = 680;
             Deep_Type = true;
             Some_Property = 29;
         }
         public override void Update()
         {
-            Avoid_Collision(Game1.operations.Objects,3);
+          //  Avoid_Collision(Game1.operations.Objects,3);
             base.Update();
         }
         
